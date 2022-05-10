@@ -10,19 +10,19 @@ This is a personal project to help me learn Next.js.
 
 # How to use
 
-    * Clone the repository
+Clone the repository
 ```bash
 $ git clone https://github.com/NathanLazo/TodoList.git
 ```
-    * Run the following command
+Run the following command
 ```bash
 $ cd TodoList
 ```
-    * Then
+Then
 ```bash
 $ npm install
 ```
-    * Last
+Last
 ```bash
 $ npm run dev
 ```
