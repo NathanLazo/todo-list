@@ -1,6 +1,6 @@
 {
-  "name": "next-base",
-  "version": "0.1.0",
+  "name": "todos-app",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -16,5 +16,23 @@
   "devDependencies": {
     "eslint": "8.13.0",
     "eslint-config-next": "12.1.5"
-  }
+  },
+  "description": "This is a personal project to help me learn Next.js.",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanLazo/TodoList.git"
+  },
+  "keywords": [
+    "todos",
+    "test",
+    "next",
+    "javascript"
+  ],
+  "author": "Nathan Lazo <nathanlazo@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NathanLazo/TodoList/issues"
+  },
+  "homepage": "https://github.com/NathanLazo/TodoList#readme"
 }
