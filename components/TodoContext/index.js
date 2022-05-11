@@ -39,7 +39,6 @@ const TodoProvider = (props) => {
           completed: false,
         })
         saveTodos(newTodos);
-        setOpenPortal(false);
       };
     
       const completeTodo = (text) => {

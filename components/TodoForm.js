@@ -17,6 +17,7 @@ const TodoForm = () => {
     const onSubmit = (e) => {
         e.preventDefault();
         addTodo(newTodoValue);
+        setOpenPortal(false);
     }
 
   return (
